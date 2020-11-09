@@ -1,0 +1,6 @@
+#FileLock
+#Mon Nov 09 11:51:55 CET 2020
+server=192.168.0.17\:59473
+hostName=host.docker.internal
+method=file
+id=175aca23a1d5c12b37c0ea9e2e8c56eb117769bc2e3
